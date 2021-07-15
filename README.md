@@ -9,4 +9,5 @@ Are you finding my contact information? Please go to <a href="https://www.oty.tw
 
 ## 展品列表　List of exhibits
 
-<a href="./2020twn/" target=_blank>2020台語文與多媒體製作課程—期末網頁作品</a>
+<a href="./2020-twl-twn_multimedia/" target=_blank>2020台語文與多媒體製作課程—期末網頁作品</a>
+<a href="./2021-twl-news-quemoy/" target=_blank>2021新聞採訪寫作課程—專題報導互動式網頁</a>
