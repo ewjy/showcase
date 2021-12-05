@@ -4,7 +4,7 @@
 我在這裡會放置一些過去及現在的完成作品，歡迎隨意瀏覽並給予意見。\
 I've put some past and current works here, please feel free to browse and provide your opinions.
 
-在找我的聯絡方式嗎？請移步至<a href="https://www.oty.tw/" target=_blank>我的個人首頁</a>。\
+在找我的聯絡方式嗎？請移步至<a href="https://www.oty.tw/index-zh.html" target=_blank>我的個人首頁</a>。\
 Are you finding my contact information? Please go to <a href="https://www.oty.tw/" target=_blank>my personal homepage</a>.
 
 ## 展品列表　List of exhibits
