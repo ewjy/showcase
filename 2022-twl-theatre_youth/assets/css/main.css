@@ -2254,7 +2254,7 @@ input, select, textarea {
 
 /* One */
 
-	#prelude, #scene_1-3, #after_rec, #scene_2, #test, scene_2-3 {
+	#prelude, #scene_1-3, #after_rec, #scene_2, #test, #scene_2-3, #scene_2-2, #scene_3, #feedback {
 		background: url("images/overlay.png"), url("../../images/one.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
@@ -2263,7 +2263,7 @@ input, select, textarea {
 
 /* Two */
 
-	#scene_1-1, #record, #scene_1-4, #scene_2-2-1, #scene_2-2-2 {
+	#scene_1-1, #record, #scene_1-4, #scene_2-2-1, #scene_2-2-2, #scene_2-4, #end {
 		background: url("images/overlay.png"), url("../../images/two.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
