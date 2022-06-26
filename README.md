@@ -7,6 +7,9 @@ I've put some past and current works here, please feel free to browse and provid
 在找我的聯絡方式嗎？請移步至<a href="https://www.oty.tw/index-zh.html" target=_blank>我的個人首頁</a>。\
 Are you finding my contact information? Please proceed to <a href="https://www.oty.tw/" target=_blank>my personal homepage</a>.
 
+本人另有相對大型的作品集，請至<a href="https://projects.oty.tw/" target=_blank>我的專案作品集</a>查看。\
+For relatively large-scale works by me, please link to <a href="https://projects.oty.tw/" target=_blank>my projects' colletion</a>.
+
 ## 展品列表　List of exhibits
 以遞降次序排列\
 In descending order
