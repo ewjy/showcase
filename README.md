@@ -8,7 +8,7 @@ I've put some past and current works here, please feel free to browse and provid
 Are you finding my contact information? Please go to <a href="https://www.oty.tw/" target=_blank>my personal homepage</a>.
 
 ## 展品列表　List of exhibits
-以遞降次序排列
+以遞降次序排列\
 In descending order
 
 <a href="./2022-twl-theatre_youth/" target=_blank>2022青少年劇場課程—期末演出互動呈現網頁</a>\
